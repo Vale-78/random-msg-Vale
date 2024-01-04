@@ -1,0 +1,26 @@
+{
+  "name": "random-msg-vale",
+  "version": "1.0.0",
+  "description": "Mensaje aleatorio. Creación de paquete npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vale-78/random-msg-Vale.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Valeria Foglino <valeriafoglino_78@yahoo.com.ar>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vale-78/random-msg-Vale/issues"
+  },
+  "homepage": "https://github.com/Vale-78/random-msg-Vale#readme",
+  "bin": {
+    "random-msg-Vale": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
